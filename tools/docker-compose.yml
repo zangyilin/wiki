@@ -20,4 +20,4 @@ services:
     environment:
       WIKI_ADMIN_EMAIL: admin@example.com
     volumes:
-      - ./config.yml:/var/wiki/config.yml
+      - ./config.simple.yml:/var/wiki/config.simple.yml
