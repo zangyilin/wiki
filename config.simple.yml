@@ -115,7 +115,7 @@ sessionSecret: 1234567890abcdefghijklmnopqrstuvxyz
 # Database Connection String
 # ---------------------------------------------------------------------
 
-db: mongodb://localhost:27017/wiki
+db: mongodb://kerust:kerust201705@118.26.179.77:2707/wiki
 
 # ---------------------------------------------------------------------
 # Git Connection Info

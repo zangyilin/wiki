@@ -1,7 +1,7 @@
 FROM requarks/wiki:latest
 
 # Replace with your email address:
-ENV WIKI_ADMIN_EMAIL zangyilinzw@126.com
+ENV WIKI_ADMIN_EMAIL zangyilin@kerust.com
 
 WORKDIR /var/wiki
 
